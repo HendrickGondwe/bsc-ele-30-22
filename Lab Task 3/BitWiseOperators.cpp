@@ -25,5 +25,5 @@ main()
     c = a >> 2;
     cout << "Line 6 - Value of c is :" << c << endl;
 
-    return 0;
+return 0;
 }
