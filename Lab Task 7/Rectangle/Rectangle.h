@@ -8,10 +8,10 @@ private:
 public:
     Rectangle();
     ~Rectangle(); 
-    void setLength(float len); 
-    void setWidth(float wid); 
-    float getLength() ; 
-    float getWidth() ; 
-    float calculateArea();
+     void setLength(float len); 
+     void setWidth(float wid); 
+     float getLength() ; 
+     float getWidth() ; 
+     float calculateArea();
 };
 
