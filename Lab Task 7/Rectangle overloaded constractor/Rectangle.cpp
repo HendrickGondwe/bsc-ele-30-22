@@ -10,26 +10,20 @@ Rectangle::Rectangle(float len, float wid) {
     width = wid;
 }
 
-Rectangle::~Rectangle() {
-    
+Rectangle::~Rectangle() {    
 }
-
 void Rectangle::setLength(float len) {
     length = len;
 }
-
 void Rectangle::setWidth(float wid) {
     width = wid;
 }
-
 float Rectangle::getLength() {
     return length;
 }
-
-float Rectangle::getWidth(){
++float Rectangle::getWidth(){
     return width;
 }
-
 float Rectangle::calculateArea() {
     return length * width;
 }
