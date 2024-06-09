@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Derived.h"
+
 using namespace std;
 
 int main() {
@@ -18,7 +19,6 @@ int main() {
     }
 
     delete pba;
-    delete pbb;
-    
-    return 0;
+    delete pbb;    
+        return 0;
 }
