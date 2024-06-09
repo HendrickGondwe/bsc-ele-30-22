@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-main()
+    main()
 {
     int a = 21;
     int b = 10;
@@ -28,5 +27,5 @@ main()
     c = a--;
     cout << "line 7 - Value of c is : " << c << endl;
 
-    return 0;
+return 0;
 }
