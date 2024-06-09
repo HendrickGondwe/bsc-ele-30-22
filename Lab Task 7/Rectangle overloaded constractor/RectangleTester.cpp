@@ -17,7 +17,7 @@ using namespace std;
     rectangle1.setWidth(width);
 
         cout << "Area of the first rectangle: " << rectangle1.calculateArea() << endl;
-       cout << "\nEnter length of the second rectangle: ";
+        cout << "\nEnter length of the second rectangle: ";
         cin >> length;
         cout << "Enter width of the second rectangle: ";
         cin >> width;
