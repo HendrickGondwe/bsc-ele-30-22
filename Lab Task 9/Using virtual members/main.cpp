@@ -9,8 +9,8 @@ int main() {
     Polygon* pPoly1 = &rect;
     Polygon* pPoly2 = &trgl;
     
-    pPoly1->SetValues(4, 5);
-    pPoly2->SetValues(4, 5);
+            pPoly1->SetValues(4, 5);
+            pPoly2->SetValues(4, 5);
     
     cout << pPoly1->Area() << '\n';
     cout << pPoly2->Area() << '\n';
