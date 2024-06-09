@@ -17,15 +17,15 @@ int main()
     Box2.SetHeight(10.0);
 
     volume = Box1.GetVolume();
-    cout << "Volume of Box1: " << volume << endl;
+        cout << "Volume of Box1: " << volume << endl;
 
     volume = Box2.GetVolume();
-    cout << "Volume of Box2: " << volume << endl;
+        cout << "Volume of Box2: " << volume << endl;
 
     Box3 = Box1 + Box2;
 
     volume = Box3.GetVolume();
-    cout << "Volume of Box3: " << volume << endl;
+        cout << "Volume of Box3: " << volume << endl;
 
     return 0;
 }
