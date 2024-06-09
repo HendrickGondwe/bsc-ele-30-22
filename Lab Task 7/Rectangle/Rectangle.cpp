@@ -5,9 +5,7 @@ Rectangle::Rectangle() {
     length = 0.0;
     width = 0.0;
 }
-
-Rectangle::~Rectangle() {
-    
+Rectangle::~Rectangle() {  
 }
 
 void Rectangle::setLength(float len) {
