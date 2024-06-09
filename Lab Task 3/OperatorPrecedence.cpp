@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-main()
+    main()
 {   
     int a = 20;
     int b = 10;
@@ -20,5 +19,5 @@ main()
 
     e = a + (b * c) / d;
     cout << "value of ((a + b) /d is :" << e << endl;
-    return 0;
+     return 0;
 }
