@@ -2,5 +2,5 @@
 class Mother {
 public:
     Mother();
-    Mother(int a);
+        Mother(int a);
 };
