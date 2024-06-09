@@ -6,5 +6,5 @@ int main ()
     cout << "am leaning cpp\n\n";
     cout << "lets try this"<< endl;
     cout << "class time up ";
-    return 0;
+ return 0;
 }
