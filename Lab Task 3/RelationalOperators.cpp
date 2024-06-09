@@ -33,8 +33,6 @@ main()
         cout << "line 3 - a is not greater than b" << endl;
     }
 
-    //Lets change the values of a and b
-
     a = 5;
     b = 20;
 
