@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
     int* pPointer = nullptr;
-
     int integerVar = 5;
 
     pPointer = &integerVar;
