@@ -5,7 +5,6 @@ using namespace std;
 
 int main() {
     int selection = 0;
-
     cout << "Please select the area of the shape to calculate" << endl;
     cout << "1. Square " << endl;
     cout << "2. Rectangle" << endl;
