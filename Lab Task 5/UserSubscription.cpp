@@ -31,5 +31,5 @@ int main()
         cout << "You have an active subscription."<< endl;
     }
 
-    return 0;
+ return 0;
 }
